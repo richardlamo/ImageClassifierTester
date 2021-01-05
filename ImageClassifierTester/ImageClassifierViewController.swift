@@ -65,6 +65,7 @@ class ImageClassifierViewController: UIViewController, UIImagePickerControllerDe
                 detect(image: convertedImage, mlModel: model, classifier: "MNISTClassifier")
             }
 
+            // MARK: You can add more classifiers here
             
             print(predictionList.count)
             for item in predictionList {
