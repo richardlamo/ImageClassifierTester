@@ -1,4 +1,4 @@
-![NICE Consulting Banner](Documentation/NiceConsultingBanner.png=450px)
+![NICE Consulting Banner](Documentation/NiceConsultingBanner.png=450x)
 
 # ImageClassifierTester
 
