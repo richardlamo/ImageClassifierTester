@@ -1,5 +1,5 @@
-![NICE Consulting Banner](Documentation/NiceConsultingBanner.png)
 
+<img src="Documentation/NiceConsultingBanner.png" width="200"/>
 # ImageClassifierTester
 
 This is an iOS App to test the accuracy of multiple image classifiers. This demo already includes the following classifiers.
