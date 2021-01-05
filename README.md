@@ -24,7 +24,7 @@ To test a custom or new image classifier, you must implement this in Apple's mlm
 
 Once you have your model then all you have to do is add the following statement using the new model in ImageClassifierViewController.imagePickerController(..). See the Comment for exact location.
 
->if let model = try? *Your Model Class Name*(configuration: MLModelConfiguration()).model {
+>if let model = try? <**Your Model Class Name**>(configuration: MLModelConfiguration()).model {
 >    detect(image: convertedImage, mlModel: model, classifier: "MNISTClassifier")
 >}
 
