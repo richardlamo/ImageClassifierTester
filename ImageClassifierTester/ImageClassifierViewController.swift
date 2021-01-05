@@ -60,6 +60,7 @@ class ImageClassifierViewController: UIViewController, UIImagePickerControllerDe
 
 
             // Try MNISTClassifier
+            // This is a digit classifier
             if let model = try? MNISTClassifier(configuration: MLModelConfiguration()).model {
                 detect(image: convertedImage, mlModel: model, classifier: "MNISTClassifier")
             }
