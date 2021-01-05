@@ -17,7 +17,10 @@ The above models and more can be found under Apple's [Core ML Models](https://de
 The App works by taking photo within the app using the camera on your iOS device. Using that photo it then makes predictions via each classifier requested. It puts all the top result from each classification to display in a Table View.
 
 For example:
+
 <img src="Documentation/Demo.png" width="500"/>
+
+As you can see, the result also includes the confidence result in percentage of each classifier.
 
 ## Adding a new model for testing.
 
