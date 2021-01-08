@@ -36,4 +36,4 @@ Once you've done that then you will see your classifier's results added to the T
 
 See the following video on how it works.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5N9tpXq86Ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Image Classifier](https://img.youtube.com/vi/5N9tpXq86Ro/0.jpg)](https://www.youtube.com/watch?v=5N9tpXq86Ro)
